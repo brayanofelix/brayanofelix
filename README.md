@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Brayan Félix, Sou Desenvolvedor Web, de São Paulo - Brasil.</p>
+<p align="left">Meu nome é Brayan Félix, Sou Desenvolvedor Web, de Palmeira d'Oeste - São Paulo - Brasil.</p>
 
 ###
 
